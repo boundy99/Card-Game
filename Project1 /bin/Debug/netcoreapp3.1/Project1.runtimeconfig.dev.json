@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/boundy/.dotnet/store/|arch|/|tfm|",
+      "/Users/boundy/.nuget/packages"
+    ]
+  }
+}
